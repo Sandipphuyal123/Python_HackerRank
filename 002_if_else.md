@@ -47,5 +47,5 @@ else:
     elif  6 <= n <= 20:
         print("Weird")
     elif n >20:
-        print("Not Weird")           
+        print("Not Weird")            
 ```
