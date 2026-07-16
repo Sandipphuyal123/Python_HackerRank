@@ -1,4 +1,4 @@
-# 023 - Alphabet Rangoli
+# 024 - Alphabet Rangoli
 
 ## Problem
 
